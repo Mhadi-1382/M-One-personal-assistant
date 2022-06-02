@@ -11,6 +11,8 @@ This program has two user interfaces: Typing and Listening.
 
 To launch the program, first install the required packages and then use the program safely.
 
+Use the help command to display the program commands.
+
 ## Core Dependencies
 
 - Python 3 (3.9.7)
