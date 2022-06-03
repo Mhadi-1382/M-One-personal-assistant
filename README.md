@@ -29,3 +29,5 @@ Use the "help" command to display the program commands.
 - urllib
 - time
 - os
+
+**More information**: https://dev.to/mhadi2003/m-one-personal-assistant-v10-l0h
