@@ -9,24 +9,40 @@ I'm your personal assistant M-One. I work for minor tasks such as opening websit
 
 This program has two user interfaces: Typing and Listening.
 
+> **Version 2.0 (Update: Saturday, June 11, 2022)**:
+
+M-One in version 2.0 can do 68 things.
+
+Important changes in version 2.0:
+
+Play music, play videos, open photos, take notes and read them, find locations on the map, whois site, weather, check if you are connected to the Internet, open the source code of the application in GitHub and ... More Features -Improved user interface, bug fixes and lots of other problems.
+
 ## Installation
 
 To launch the program, first install the required packages and then use the program safely.
+You can also install the required packages by running the **setup.bat** file.
 
 Use the "help" command to display the program commands.
 
 ## Core Dependencies
 
 - Python 3 (3.9.7)
-- translate
-- speech_recognition
+- SpeechRecognition
+- subprocess (version 2.0)
 - webbrowser
 - wikipedia
+- pyautogui (version 2.0)
+- translate
 - requests
 - pyqrcode
+- platform (version 2.0)
+- winshell (version 2.0)
 - datetime
+- PyAudio
 - pyttsx3
+- random (version 2.0)
 - urllib
+- whois (version 2.0)
 - time
 - os
 
