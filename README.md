@@ -17,6 +17,10 @@ Important changes in version 2.0:
 
 Play music, play videos, open photos, take notes and read them, find locations on the map, whois site, weather, check if you are connected to the Internet, open the source code of the application in GitHub and ... More Features -Improved user interface, bug fixes and lots of other problems.
 
+> **M-One (v2.0) GUI v1.0**:
+
+Includes interface Typing and Listening - [GUI_v1.0][https://github.com/Mhadi-1382/M-One-personal-assistant/blob/main/GUI_v1.0.rar]
+
 ## Installation
 
 To launch the program, first install the required packages and then use the program safely.
