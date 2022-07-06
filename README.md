@@ -19,7 +19,7 @@ Play music, play videos, open photos, take notes and read them, find locations o
 
 > **M-One (v2.0) GUI v1.0**:
 
-Includes interface Typing and Listening - [GUI_v1.0]{https://github.com/Mhadi-1382/M-One-personal-assistant/blob/main/GUI_v1.0.rar}
+Includes interface Typing and Listening - [GUI_v1.0](https://github.com/Mhadi-1382/M-One-personal-assistant/blob/main/GUI_v1.0.rar)
 
 ## Installation
 
