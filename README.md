@@ -21,6 +21,14 @@ Play music, play videos, open photos, take notes and read them, find locations o
 
 Includes interface Typing and Listening - [GUI_v1.0](https://github.com/Mhadi-1382/M-One-personal-assistant/blob/main/GUI_v1.0.rar)
 
+> **Version 2.4 (Update: Friday, June 24, 2022)**:
+
+M-One in version 2.4 can do 81 things.
+
+Important changes in version 2.4:
+
+change voice, in what language are you written, do you know me, set alarm, edit note, open calculator, open disk c & d & e, open task manager, toggle capslock, toggle numlock, start menu, and...
+
 ## Installation
 
 To launch the program, first install the required packages and then use the program safely.
@@ -34,6 +42,9 @@ Use the "help" command to display the program commands.
 - SpeechRecognition
 - subprocess (version 2.0)
 - webbrowser
+- threading (version 2.4)
+- winsound (version 2.4)
+- tkinter (version 2.0 - GUI v1.0)
 - wikipedia
 - pyautogui (version 2.0)
 - translate
