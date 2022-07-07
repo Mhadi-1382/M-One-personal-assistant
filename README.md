@@ -21,6 +21,8 @@ Play music, play videos, open photos, take notes and read them, find locations o
 
 Includes interface Typing and Listening - [GUI_v1.0](https://github.com/Mhadi-1382/M-One-personal-assistant/blob/main/GUI_v1.0.rar)
 
+[Click on the link below to view the photo of the program page.](https://dev.to/mhadi2003/m-one-personal-assistant-v24-update-friday-june-24-2022-gui-v10-l4e)
+
 > **Version 2.4 (Update: Friday, June 24, 2022)**:
 
 M-One in version 2.4 can do 81 things.
