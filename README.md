@@ -29,7 +29,7 @@ M-One in version 2.4 can do 81 things.
 
 Important changes in version 2.4:
 
-change voice, in what language are you written, do you know me, set alarm ([Download Music for Alarm](https://github.com/Mhadi-1382/M-One-personal-assistant/blob/main/alarm.rar)), edit note, open calculator, open disk c & d & e, open task manager, toggle capslock, toggle numlock, start menu, and...
+change voice, in what language are you written, do you know me, set alarm ([Download Music for Alarm](https://github.com/Mhadi-1382/M-One-personal-assistant/blob/main/alarm.rar)), edit note, open calculator, open disk c & d & e, open task manager, toggle capslock, toggle numlock, start menu, and fix program bugs...
 
 ## Installation
 
